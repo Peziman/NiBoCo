@@ -13,3 +13,7 @@ https://github.com/MielArrojado/speeduino-ardugauge
 
 So why not combine the two?
 
+**This is a standalone version! There's no connection to Speeduino!**
+
+# What can it do?
+
