@@ -1,7 +1,7 @@
 #include "Arduino.h"
 #include "Pages.h"
 #include "Pump_control.h"
-#include "NissangaugeVX.h"
+#include "Nissangauge.h"
 
 const float diodeVoltage = 0.538;  // forward voltage of the used diode in Volts
 const float R1 = 98500.0;          // exact resistance of R1 (= 100 kOhm)
