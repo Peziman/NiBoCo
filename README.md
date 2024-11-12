@@ -10,5 +10,6 @@ I also wanted to have an additional display in my speedometer for my Speeduino.
 MielArrojado's project "speeduino-ardugauge" is just perfect.
 
 https://github.com/MielArrojado/speeduino-ardugauge
+
 So why not combine the two?
 
